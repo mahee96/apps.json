@@ -7,7 +7,7 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.6.1",
+      "version": "0.6.0",
       "versionDate": "2024-12-17T15:30:00Z",
       "versionDescription": "Ah, December! You just need an alpha",
       "beta": true,
@@ -27,7 +27,7 @@
       ],
       "versions": [
         {
-          "version": "0.6.1",
+          "version": "0.6.0",
           "date": "2024-9-07T18:30:00Z",
           "localizedDescription": "Ah, September! You are a doorway to the season that awakens another sidestore update! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - UI Improvements for the Anisette Servers View. by @0-Blu in #672 \n\n - Added more feedback options. by @0-Blu in #673 \n\n - Fix SideJITServer Support for iOS 17+ by @stossy11 in #674 \n\n - Makes revoking optional by @junepark678 in #675 \n\n -  Better pairing file info by @bogotesr in #676  \n\n -  Selective app extension removal by @junepark678 in #677 \n\n -  legal: developer's certificate of origin 1.1 by @polymo1 in #686 \n\n Thanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/alpha/SideStore.ipa",
