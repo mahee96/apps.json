@@ -11,6 +11,7 @@
       "versionDate": "2024-12-17T15:30:00Z",
       "versionDescription": "Ah, December! You just need an alpha",
       "beta": true,
+      "commitID": "e3579e4",
       "size": 15300000,
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
